@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
+ * main - will assign a random number to the variable
  * return: always 0
  */
 
