@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - will assign a random number to the variable
- * return: always 0
+ * main - assign a random number to the variable
+ *
+ * Return: always 0
  */
-
 int main(void)
 {
 	int n;
