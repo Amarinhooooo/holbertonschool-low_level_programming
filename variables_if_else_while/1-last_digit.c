@@ -4,7 +4,7 @@
 
 /**
  * main - prints the last digit of a random
- * task - prints the last digit of input (n)
+ * 
  * Return:always 0
  */
 
